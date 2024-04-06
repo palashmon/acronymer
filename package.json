@@ -1,0 +1,63 @@
+{
+	"name": "acronymer",
+	"version": "0.0.0",
+	"description": "Transform strings into memorable acronyms",
+	"license": "MIT",
+	"repository": "palashmon/acronymer",
+	"author": "Palash Mondal <palashm@live.in>",
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"sideEffects": false,
+	"engines": {
+		"node": ">=18"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"lint": "xo --fix"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"acronym",
+		"acronyms",
+		"acronymer",
+		"abbr",
+		"abbrv",
+		"abbrev",
+		"abbreviation",
+		"algorithm",
+		"coding",
+		"compose",
+		"create",
+		"development",
+		"efficient",
+		"generate",
+		"generate",
+		"generate",
+		"javascript",
+		"library",
+		"logic",
+		"memorable",
+		"programming",
+		"short",
+		"string",
+		"strings",
+		"text",
+		"transform",
+		"word"
+	],
+	"devDependencies": {
+		"ava": "^6.0.0",
+		"xo": "^0.56.0"
+	},
+	"xo": {
+		"rules": {
+			"unicorn/prefer-ternary": "off"
+		}
+	}
+}
