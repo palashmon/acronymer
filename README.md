@@ -2,7 +2,7 @@
 
 > Transform strings into memorable acronyms
 
-![CI](https://github.com/palashmon/acronymer/actions/workflows/main.yaml/badge.svg)
+![CI](https://github.com/palashmon/acronymer/actions/workflows/main.yml/badge.svg)
 [![npm version](https://img.shields.io/npm/v/acronymer.svg)](http://npm.im/acronymer)
 [![npm downloads](https://img.shields.io/npm/dm/acronymer.svg)](http://npm.im/acronymer)
 
