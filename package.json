@@ -1,6 +1,6 @@
 {
 	"name": "acronymer",
-	"version": "1.0.2,
+	"version": "1.0.2",
 	"description": "Transform strings into memorable acronyms",
 	"license": "MIT",
 	"repository": "palashmon/acronymer",
